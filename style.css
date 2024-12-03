@@ -164,7 +164,7 @@ input {
 
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 500px){
     .section-one h1 {
         font-size: 1.5rem;
     }
